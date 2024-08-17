@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChangeActivity</string>
+    <string name="btn_1">Segunda Actividad</string>
+    <string name="btn_2">Cerrar App </string>
+    <string name="btn_3">Sitio Log Timber</string>
+    <string name="btn_4">Atrás</string>
+    <string name="tv_2">Segunda Activity</string>
+    <string name="txt_URL">https://kotlindoc.blogspot.com/2019/10/android-log-con-timber.html</string>
+</resources>
